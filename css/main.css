@@ -1,0 +1,67 @@
+html {
+  font-family: latino-urw, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: acme-gothic, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/** ACME FONT INFO
+
+Acme Gothic Bold
+font-family: acme-gothic, sans-serif;
+font-weight: 700;
+font-style: normal;
+
+Acme Gothic Semibold
+font-family: acme-gothic, sans-serif;
+font-weight: 600;
+font-style: normal;
+
+Acme Gothic Regular
+font-family: acme-gothic, sans-serif;
+font-weight: 400;
+font-style: normal;
+
+Acme Gothic Light
+font-family: acme-gothic, sans-serif;
+font-weight: 300;
+font-style: normal;
+
+Acme Gothic Black
+font-family: acme-gothic, sans-serif;
+font-weight: 800;
+font-style: normal;
+
+LATINO URW FONT INFO
+
+Latino URW Regular
+font-family: latino-urw, serif;
+font-weight: 400;
+font-style: normal;
+
+Latino URW Bold
+font-family: latino-urw, serif;
+font-weight: 700;
+font-style: normal;
+
+Latino URW Black
+font-family: latino-urw, serif;
+font-weight: 900;
+font-style: normal;
+
+Latino URW Regular Italic
+font-family: latino-urw, serif;
+font-weight: 400;
+font-style: italic;
+
+Latino URW Bold Italic
+font-family: latino-urw, serif;
+font-weight: 700;
+font-style: italic;
+
+**/
