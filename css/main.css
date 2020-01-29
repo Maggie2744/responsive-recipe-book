@@ -10,6 +10,10 @@ h1 {
   font-style: normal;
 }
 
+.section-3, .section-5, header, footer {
+  background-color: #efefef;
+}
+
 /** ACME FONT INFO
 
 Acme Gothic Bold
