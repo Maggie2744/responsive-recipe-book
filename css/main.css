@@ -1,17 +1,17 @@
 html {
   font-family: latino-urw, serif;
-  font-weight: 400;
+  font-weight: normal;
   font-style: normal;
 }
 
 h1, h2, h3 {
   font-family: acme-gothic, sans-serif;
-  font-weight: 700;
+  font-weight: bold;
   font-style: normal;
 }
 
 .banner-img-1 {
-  display: auto;
+  display: inherit;
 }
 
 .banner-img-2 {
@@ -23,12 +23,12 @@ h1, h2, h3 {
 }
 
 hr {
-  border-width: .5pt;
+  border-width: .5px;
   margin: auto;
 }
 
 .b1 {
-  border: .5pt solid black;
+  border: .5px solid black;
 }
 
 .btn-ghost {
@@ -67,12 +67,6 @@ hr {
   background-color: white;
 }
 
-@media only screen and (min-width: 25em) {
-
-
-
-}
-
 @media only screen and (min-width: 38em) {
 
   .banner-img-1 {
@@ -91,12 +85,6 @@ hr {
   .img-1 {
     padding: 1em;
   }
-
-}
-
-@media only screen and (min-width: 90em) {
-
-
 
 }
 
