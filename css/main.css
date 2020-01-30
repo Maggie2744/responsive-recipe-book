@@ -4,7 +4,7 @@ html {
   font-style: normal;
 }
 
-h1 {
+h1, h2, h3 {
   font-family: acme-gothic, sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -18,7 +18,7 @@ h1 {
   display: none;
 }
 
-.section-2, footer {
+.section-2, footer, .bg-1 {
   background-color: #efefef;
 }
 
