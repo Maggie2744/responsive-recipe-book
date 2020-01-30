@@ -10,7 +10,15 @@ h1 {
   font-style: normal;
 }
 
-.section-3, .section-5, header, footer {
+.banner-img-1 {
+  display: auto;
+}
+
+.banner-img-2 {
+  display: none;
+}
+
+.section-2, footer {
   background-color: #efefef;
 }
 
@@ -33,11 +41,63 @@ hr {
   background-color: white;
   color: black;
   border: solid 1px black;
+  transition: background-color .3s linear, color .3s linear;
 }
 
 .btn-ghost-2:hover {
   background-color: black;
   color: white;
+}
+
+.btn-3 {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  color: black;
+}
+
+.btn-3:hover {
+  color: gray;
+}
+
+.recipes {
+  background-color: #efefef;
+}
+
+.cards {
+  background-color: white;
+}
+
+@media only screen and (min-width: 25em) {
+
+
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  .banner-img-1 {
+    display: none;
+  }
+
+  .banner-img-2 {
+    display: block;
+    width: 100%;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .img-1 {
+    padding: 1em;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+
+
 }
 
 /** ACME FONT INFO
